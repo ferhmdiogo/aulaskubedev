@@ -1,2 +1,2 @@
-# aulaskubedev
-Praticas das aulas da Formação Kubedev
+# Kubedev
+Esse repósitorio faz parte das práticas da Formação Kubedev.
