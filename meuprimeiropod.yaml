@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: meuprimeiropod
+  labels:
+    name: meuprimeiropod
+spec:
+  containers:
+  - name: meucontainer
+    image: nginx-color:blue
+    
